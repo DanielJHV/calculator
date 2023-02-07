@@ -31,12 +31,12 @@ body {
   align-items: center;
 }
 
-.numbers {
+.number {
   font-family: 'Orbitron', sans-serif;
   color: #000;
   font-size: 45px;
   margin-right: 10px;
-  text-shadow: 0px 1px #bbb;
+  overflow: hidden;
 }
 
 .container {
