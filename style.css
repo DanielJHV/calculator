@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap");
 
 body {
   background: url(img/table.jpg) center;
@@ -27,12 +27,12 @@ body {
   background-color: #16b616;
   box-shadow: 0 5px #008000 inset;
   display: flex;
-  justify-content:flex-end;
+  justify-content: flex-end;
   align-items: center;
 }
 
 .number {
-  font-family: 'Orbitron', sans-serif;
+  font-family: "Orbitron", sans-serif;
   color: #000;
   font-size: 45px;
   margin-right: 10px;
@@ -51,7 +51,7 @@ body {
 button {
   border-radius: 50%;
   border: none;
-  background-color:#999;
+  background-color: #999;
   color: #fff;
   font-size: 20px;
   cursor: pointer;
